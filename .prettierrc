@@ -1,0 +1,19 @@
+{
+  "semi": false,
+  "printWidth": 100,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "parser": "markdown"
+      }
+    },
+    {
+      "files": "*.feature",
+      "options": {
+        "parser": "cucumber"
+      }
+    }
+  ]
+}

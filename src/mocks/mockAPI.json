@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nameTask": "Treine sua escrita",
+    "description": "Nessa tarefa você irá redigir textos baseado em filmes.",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "nameTask": "Melhorando leitura",
+    "description": "Conhecendo um pouco da literatura japonesa.",
+    "level": 2
+  },
+  {
+    "id": 3,
+    "nameTask": "Conversação",
+    "description": "Treine sua conversação com foco em diálogos do dia a dia.",
+    "level": 3
+  }
+]
